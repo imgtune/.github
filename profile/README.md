@@ -32,6 +32,6 @@ Join our journey towards a faster and more visually stunning web!
 
 ---
 
-© [Current Year] ImgTune. All rights reserved.
+© 2024 ImgTune. All rights reserved.
 
 [ImgTune.Dev](https://www.imgtune.dev)
